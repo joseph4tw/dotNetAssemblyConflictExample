@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetAssemblyConfictExample", "DotNetAssemblyConfictExample.csproj", "{A0654D51-B778-4FED-A405-48CEAE634206}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProgram", ".\MainProgram\MainProgram.csproj", "{A0654D51-B778-4FED-A405-48CEAE634206}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyACode", ".\AssemblyACode\AssemblyACode.csproj", "{FF654258-2406-4008-8B68-B7B57BB796F5}"
 EndProject
